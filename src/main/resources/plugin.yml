@@ -1,0 +1,6 @@
+name: ElytraBoost
+version: ${project.version}
+Author: Bartuzen
+description: Gives you a little boost to start gliding with elytras.
+main: io.github.bartuzen.elytraboost.ElytraBoost
+api-version: 1.13
